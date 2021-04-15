@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RajiReddyAnnadi
 - 👀 I’m interested in Software Engineering | Machine Learning
 - 🌱 I’m currently working on AKI Recovery Prediction on COVID19 pateints' data. Also working on ML based gaze predictions. 
-- 💞️ I’m looking to collaborate on 
 - 📫 Reach me at: iamrajieddy@gmail.com
 
 <!---
